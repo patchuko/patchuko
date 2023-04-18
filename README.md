@@ -2,7 +2,7 @@
 - 👀 I’m interested in emergency medicine and code
 - 🌱 I’m currently learning react native, python, nodejs
 - 💞️ I’m looking to collaborate on medical app
-- 📫 How to reach me julien.verchere@parch.fr
+- 📫 How to reach me julien.verchere@rueparch.fr
 
 <!---
 patchuko/patchuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
